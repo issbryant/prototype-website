@@ -1,4 +1,4 @@
-Prototype Website
-===============
+PROTOTYPE WEBSITE
+=================
 
-Built by Daria and Issie
+The Best Prototype Website Ever
